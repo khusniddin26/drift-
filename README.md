@@ -25,7 +25,7 @@
             <a href="drifting.html">Drift</a>
         </div>
         <div class="models">
-            <a href="#">Models</a>
+            <a href="drift.html">Models</a>
         </div>
     </section>
     
